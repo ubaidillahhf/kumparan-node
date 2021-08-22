@@ -1,0 +1,39 @@
+{
+  "name": "NODE-KumparanBe",
+  "version": "1.0.0",
+  "description": "Test Backend For Kumparan With NodeJS",
+  "main": "index.js",
+  "repository": "https://github.com/ubaidillahhf/kumparan-node",
+  "author": "Ubaidillah Hakim Fadly",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development nodemon --exec babel-node --presets=@babel/preset-env ./src/index.js",
+    "db:migrate": "npx sequelize-cli db:migrate",
+    "db:seed": "npx sequelize-cli db:seed:all",
+    "db:seed:undo": "npx sequelize-cli db:seed:undo:all",
+    "db:reset": "npx run db:drop && npm run db:create && npm run db:migrate && npm run db:seed",
+    "stop": "sudo kill -9 $(sudo lsof -t -i:4000)"
+  },
+  "dependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/node": "^7.14.9",
+    "@babel/preset-env": "^7.15.0",
+    "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
+    "dotenv-flow": "^3.2.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.12.1",
+    "moment": "^2.29.1",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.3.0",
+    "path": "^0.12.7",
+    "sequelize": "^6.6.5",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12",
+    "prettier": "^2.3.2",
+    "sequelize-cli": "^6.2.0"
+  }
+}
