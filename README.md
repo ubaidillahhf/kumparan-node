@@ -15,7 +15,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Issues][issues-shield]](https://img.shields.io/github/issues/ubaidillahhf/kumparan-node)
-[![Contributors](https://img.shields.io/badge/contributors-2-green)](https://github.com/ubaidillahhf/kumparan-node/graphs/contributors)
+[![Contributors](https://img.shields.io/badge/contributors-1-green)](https://github.com/ubaidillahhf/kumparan-node/graphs/contributors)
 [![MIT License][license-shield]](https://github.com/ubaidillahhf/kumparan-node/blob/master/license.txt)
 [![LinkedIn][linkedin-shield]](https://linkedin.com/in/ubaidillahhf)
 
@@ -38,7 +38,7 @@
     ·
     <a href="https://github.com/ubaidillahhf/kumparan-node/issues">Request Feature</a>
     .
-    <a href="https://documenter.getpostman.com/view/4839509/TzsZro7w"><b>Documentation</b></a>
+    <a href="https://documenter.getpostman.com/view/4839509/TzzDJuWA"><b>Documentation</b></a>
   </p>
 </p>
 
