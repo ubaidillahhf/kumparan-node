@@ -17,6 +17,8 @@ dotenv.config({ silent: true });
 // Define All Routes
 MainRoutes(app);
 
-app.listen(port, () => {
+const server = app.listen(port, () => {
   console.log(`\n This server is running on ${appUrl}:${port}`);
 });
+
+module.exports = server

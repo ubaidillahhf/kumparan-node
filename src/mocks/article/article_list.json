@@ -1,0 +1,21 @@
+{
+    "code": 200,
+    "message": "Success Get List Data Article",
+    "data": [
+        {
+            "id": 5,
+            "author": "System",
+            "title": "Title Example",
+            "body": "This is Body Example",
+            "createdAt": "2021-08-21T17:00:00.000Z",
+            "updatedAt": "2021-08-21T17:00:00.000Z",
+            "deletedAt": null
+        }
+    ],
+    "meta": {
+        "limit": 10,
+        "page": 1,
+        "totalPage": 1,
+        "totalData": 1
+    }
+}
