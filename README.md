@@ -88,6 +88,7 @@ Berikut merupakan list teknologi yang digunakan dalam projek ini.
 * [Sequelize as ORM](https://sequelize.org/)
 * [Nodemon as Realtime Change Monitor](https://www.npmjs.com/package/nodemon)
 * [MySql as Database](https://www.mysql.com/)
+* [Mocha](https://mochajs.org/) and [Chai as Unit and Integration Testing](https://www.chaijs.com/)
 * [Docker as Container](https://www.docker.com/)
 
 
