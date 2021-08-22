@@ -3,7 +3,7 @@
     "message": "Success Get List Data Article",
     "data": [
         {
-            "id": 5,
+            "id": 1,
             "author": "System",
             "title": "Title Example",
             "body": "This is Body Example",
