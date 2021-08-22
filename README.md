@@ -25,7 +25,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ubaidillahhf/kumparan-node">
-    <img src="https://github.com/ubaidillahhf/kumparan-node/blob/dev/logo.png" alt="Logo" height="80">
+    <img src="https://github.com/ubaidillahhf/kumparan-node/blob/master/logo.png" alt="Logo" height="80">
   </a>
 
   <h3 align="center">KUMPARAN NODE</h3>
